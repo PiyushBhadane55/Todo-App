@@ -1,0 +1,13 @@
+
+input{
+    width: 100%;
+}
+
+
+.p-button{
+    min-width: 80px;
+}
+
+.p-row{
+    margin: 10px 5px;
+}
